@@ -68,35 +68,35 @@
 
 <h4 align="left">Home</h4>
 <p align="center">
-  <img alt="home" src = "https://github.com/montasim/GetYourCar/blob/master/extra/home.png">
+  <img alt="home" src = "https://github.com/montasim/Employee-Management-System/blob/master/extra/home.png">
 
 <h4 align="left">Admin Dashboard</h4>
 <p align="center">
-  <img alt="cars" src = "https://github.com/montasim/GetYourCar/blob/master/extra/cars.png">
+  <img alt="cars" src = "https://github.com/montasim/Employee-Management-System/blob/master/extra/admin%20dashboard.png">
 
 <h4 align="left">Add department</h4>
 <p align="center">
-  <img alt="view cars" src = "https://github.com/montasim/GetYourCar/blob/master/extra/view%20car.png">
+  <img alt="view cars" src = "https://github.com/montasim/Employee-Management-System/blob/master/extra/admin%20add%20department.png">
 
 <h4 align="left">Add Employee</h4>
 <p align="center">
-  <img alt="book cars" src = "https://github.com/montasim/GetYourCar/blob/master/extra/book%20car.png">
+  <img alt="book cars" src = "https://github.com/montasim/Employee-Management-System/blob/master/extra/admin%20add%20employee.png">
 
 <h4 align="left">Employees</h4>
 <p align="center">
-  <img alt="contact" src = "https://github.com/montasim/GetYourCar/blob/master/extra/contact.png">
+  <img alt="contact" src = "https://github.com/montasim/Employee-Management-System/blob/master/extra/admin%20employee.png">
 
 <h4 align="left">Leave Requests</h4>
 <p align="center">
-  <img alt="signup" src = "https://github.com/montasim/GetYourCar/blob/master/extra/signup.png">
+  <img alt="signup" src = "https://github.com/montasim/Employee-Management-System/blob/master/extra/admin%20leave.png">
 
 <h4 align="left">User Dashboard</h4>
 <p align="center">
-  <img alt="login" src = "https://github.com/montasim/GetYourCar/blob/master/extra/login.png">
+  <img alt="login" src = "https://github.com/montasim/Employee-Management-System/blob/master/extra/user%20dashboard.png">
 
 <h4 align="left">Add Leave Request</h4>
 <p align="center">
-  <img alt="signup" src = "https://github.com/montasim/GetYourCar/blob/master/extra/signup.png">
+  <img alt="signup" src = "https://github.com/montasim/Employee-Management-System/blob/master/extra/user%20add%20leave.png">
 
 
 <br>
