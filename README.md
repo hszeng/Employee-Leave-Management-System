@@ -27,8 +27,6 @@
 
 <br>
 
-<h2 align="left">Demo : https://montasim.github.io/Employee-Management-System/</h2>
-
 <h2 align="left">Website Stats</h2>
 <p align="center">
   <img alt="Website stats" src = "https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=Employee-Management-System&show_icons=true&theme=radical&line_height=27&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">
