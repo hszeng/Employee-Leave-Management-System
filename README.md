@@ -48,11 +48,11 @@
 
 <h2>Development Tools</h2>
 
-- <b>Os :</b> Windows
-- <b>IDE :</b> Visual Studio Code
-- <b>Language :</b> PHP, JavaScript
-- <b>Database :</b> MySQL
-- <b>Web Server :</b> XAMPP
+- <b>Os :</b> <a href="https://www.microsoft.com/software-download/windows10">Windows 10</a>
+- <b>IDE :</b> <a href="https://code.visualstudio.com/">Visual Studio Code</a>
+- <b>Language :</b> <a href="https://windows.php.net/download#php-7.4">PHP</a>, <a href="https://nodejs.org/en/download/">JavaScript</a>
+- <b>Database :</b> <a href="https://www.mysql.com/downloads/">MySQL</a>
+- <b>Web Server :</b> <a href="https://www.apachefriends.org/download.html">XAMPP</a>
 
 <br>
 
