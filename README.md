@@ -48,11 +48,11 @@
 
 <h2>Development Tools</h2>
 
-- Os : Windows
-- IDE : Visual Studio Code
-- Language : PHP, JavaScript
-- Database : MySQL
-- Web Server : XAMPP
+- <b>Os :</b> Windows
+- <b>IDE :</b> Visual Studio Code
+- <b>Language :</b> PHP, JavaScript
+- <b>Database :</b> MySQL
+- <b>Web Server :</b> XAMPP
 
 <br>
 
