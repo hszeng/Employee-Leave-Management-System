@@ -107,9 +107,25 @@
 
 <h2>How to open website?</h2>
 
-- Download the website
-- Extract files and goto extracted folder
-- Open index.html file
+<ol>
+  <li>Download the website</li>
+  <li>Extract files and goto extracted folder</li>
+  <li>Import database from database folder
+    <ol>
+      <li><b>Database Username :</b> root</li>
+      <li><b>Database Password :</b> ""</li>
+    </ol>
+  </li>
+  <li>Open index.html file</li>
+  <li>Login
+    <ol>
+      <li><b>Admin Username :</b> admin@gmail.com</li>
+      <li><b>Admin Password :</b> admin</li>
+    </ol>
+  </li>
+</ol>
+
+<br>
 
 <h2>Want to contribute? Great!</h2>
 
