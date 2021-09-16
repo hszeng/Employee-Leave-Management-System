@@ -1,4 +1,4 @@
-<h1 align="center">Website Name :  Employee Management System</h1>
+<h1 align="center">Website Name :  Employee Leave Management System</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/montasim" target="_blank">
@@ -22,7 +22,7 @@
 </p>
 
 
-<h3 align="left">This is a simple Employee Management System website. With this website a company can maintain their employees. Employee can request leave from this website. Admin can manage all employees from here. Hope you will like the website. You can also use this template website to make your own version of the website. If you use this website give credit to <a href="https://montasim.github.io">AUTHOR</a>.</h3>
+<h3 align="left">This is a simple Employee Leave Management System website. With this website a company can maintain their employees. Employee can request leave from this website. Admin can manage all employees from here. Hope you will like the website. You can also use this template website to make your own version of the website. If you use this website give credit to <a href="https://montasim.github.io">AUTHOR</a>.</h3>
 
 
 <br>
